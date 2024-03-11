@@ -1,0 +1,10 @@
+h5py
+geoarrow-pyarrow
+geoarrow-pandas
+geopandas
+matplotlib
+numpy
+pandas
+pyarrow
+
+
